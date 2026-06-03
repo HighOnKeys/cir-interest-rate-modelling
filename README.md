@@ -1,5 +1,6 @@
 # Stochastic Interest Rate Modelling: CIR Model
 ### Finance Club, IIT Roorkee — Open Projects 2026
+**Author:** Kumar Manas | kumar_m@me.iitr.ac.in
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-green)
