@@ -14,8 +14,9 @@ stochastic short-rate model on real yield curve data. The core objective is to
 reconstruct the full yield curve using only the 3-Month rate as input.
 
 The CIR model describes the evolution of the instantaneous short rate via:
+```
 dr_t = κ(θ − r_t)dt + σ√r_t dW_t
-
+```
 where κ is mean reversion speed, θ is the long-run mean, σ is volatility,
 and W_t is a standard Brownian motion.
 
@@ -100,13 +101,13 @@ cir-interest-rate-modelling/
 ---
 
 ## Dependencies
-
+```
 pandas
 numpy
 matplotlib
 scipy
 scikit-learn
-
+```
 ---
 
 ## References
