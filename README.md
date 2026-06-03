@@ -47,7 +47,7 @@ curve environment of the test period — textbook regime-dependent overfitting.
 ---
 
 ## Project Structure
-
+```
 cir-interest-rate-modelling/
 │
 ├── data/
@@ -59,7 +59,7 @@ cir-interest-rate-modelling/
 │   └── CIR_Interest_Rate_Modelling.ipynb   # Full implementation
 │
 └── README.md
-
+```
 ---
 
 ## Methodology
