@@ -4,7 +4,7 @@
 `CIR_Interest_Rate_Modelling.ipynb` — Full implementation, calibration, extension, and analysis.
 
 ## How to Run
-1. Open in Google Colab: [Click here](https://colab.research.google.com/)
+1. Open in Google Colab: [Click here]([https://colab.research.google.com/](https://colab.research.google.com/drive/1uVRDL3ahVhI-1DfOCJ7FyySHlLFydEm9?usp=sharing))
 2. Upload the three CSV files from the `data/` folder when prompted
 3. Run all cells top to bottom (Runtime → Run All)
 
